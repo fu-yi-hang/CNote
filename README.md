@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://mp.weixin.qq.com/s/6NYkBCQb34NSZR3EvsgjHw"><img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-read-brightgreen" alt="在线阅读"></a>
     <a href="https://space.bilibili.com/668272954/?spm_id_from=333.999.0.0" alt="B站视频"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E4%BB%A3%E7%A0%81%E6%83%85%E7%BC%98-green" alt="公众号"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/AI%E7%BB%B4%E5%85%8B%E5%85%B9-%E5%85%AC%E4%BC%97%E5%8F%B7?label=%E5%85%AC%E4%BC%97%E5%8F%B7" alt="公众号"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/PDF-C%E8%AF%AD%E8%A8%80%E4%BF%9D%E5%A7%86%E7%BA%A7%E6%95%99%E7%A8%8B-yellowgreen" alt="PDF"></a>
   <a href="#联系我"><img src="https://img.shields.io/badge/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-weChat-orange" alt="联系我"></a>
 </p>
@@ -338,9 +338,8 @@
 
 ### 公众号
 
-如果大家想要实时关注我们更新的文章以及分享的干货的话，可以关注我们的微信公众号“**代码情缘**”。
+如果大家想要实时关注我们更新的文章以及分享的干货的话，可以关注我们的微信公众号“**AI维克兹**”。
 
-**《C语言保姆级教程》:**《**Go语言保姆级教程**》PDF 版本在[微信公众号](#公众号)后台回复 **"书籍"** 即可免费领取！
+<img width="1710" height="624" alt="我的公众号" src="https://github.com/user-attachments/assets/6fb3778c-9951-402e-a7f0-834d5a9d78c1" />
 
-![我的公众号](https://cdn.nlark.com/yuque/0/2021/jpeg/12653647/1635665327539-b1156e20-fe8c-430b-9c24-1f3b834942ac.jpeg)
 
